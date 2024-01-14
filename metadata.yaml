@@ -1,0 +1,5 @@
+homepage: "https://www.consentbanner.com"
+documentation: "https://www.consentbanner.com/"
+versions:
+  - sha: be5cd7952432fedbe387839ef138a74b3b057a74
+    changeNotes: Initial release.
